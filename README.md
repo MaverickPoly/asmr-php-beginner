@@ -1,7 +1,3 @@
-```
-git remote add origin https://github.com/MaverickPoly/asmr-php-beginner.git
-```
-
 ## Projects List
 
 1. Hello World Page
