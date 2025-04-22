@@ -1,3 +1,7 @@
+# ASMR PHP Beginner
+
+20 Beginner Projects to practice for absolute beginners.
+
 ## Projects List
 
 1. Hello World Page
@@ -33,8 +37,8 @@
     • Accept a sentence from the user and count the number of words.
 16. Sum of Digits
     • Input a number and calculate the sum of its digits.
-17. Simple Voting System
-    • Create a program where users can vote for their favorite option, and display the total votes (stored in a session or file).
+17. Connect to MySQL
+    • Create a program that simply connects to MySQL database and has a form for adding sample data to it.
 18. Prime Number Checker
     • Check if a number is prime using a PHP script.
 19. Table Generator
