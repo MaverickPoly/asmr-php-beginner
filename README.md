@@ -1,6 +1,6 @@
 # ASMR PHP Beginner
 
-20 Beginner Projects to practice for absolute beginners.
+20 Beginner Projects to practice for absolute beginners!
 
 ## Projects List
 
